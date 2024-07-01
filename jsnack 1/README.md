@@ -1,4 +1,4 @@
-nome repo di oggi: js-jsnacks-blocco-1
+Nome repo di oggi (01/07/24): js-jsnacks-blocco-1
 SNACK 1:
 In un array sono contenuti i nomi degli invitati alla festa del grande Gatsby, chiedi all’utente il suo nome e comunicagli se può partecipare o no alla festa.
 
