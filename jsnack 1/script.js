@@ -14,4 +14,10 @@ const authorized_name = ["Jay Gatsby", "Daisy Buchanan", "Nick Carraway", "Tom B
 
 //Ciclo l'ARRAY e confronto l'elemento che sto ciclando con il nome inserito nel prompt
 
+for (let i = 0; i < authorized_name.length; i++){
+    if (authorized_name[i] === name_and_surname){
+        found_name = true
+    }
+}
+
 //Mostro il messaggio corrispondente a seconda della FLAG
