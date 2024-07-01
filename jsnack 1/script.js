@@ -6,7 +6,11 @@ console.log(name_and_surname);
 
 //Creo una FLAG impostata su FALSE
 
+let found_name = false;
+
 //Creare un ARREY con la lista dei nomi
+
+const authorized_name = ["Jay Gatsby", "Daisy Buchanan", "Nick Carraway", "Tom Buchanan", "Meyer Wolfsheim", "Jordan Baker", "Myrtle Wilson",]
 
 //Ciclo l'ARRAY e confronto l'elemento che sto ciclando con il nome inserito nel prompt
 
