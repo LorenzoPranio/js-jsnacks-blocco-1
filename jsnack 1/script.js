@@ -21,3 +21,10 @@ for (let i = 0; i < authorized_name.length; i++){
 }
 
 //Mostro il messaggio corrispondente a seconda della FLAG
+
+if (found_name === true){
+    document.getElementById('access-allowed').innerHTML = "Puoi accedere alla festa del grande Gatsby";
+ }
+ else {
+    document.getElementById('access-denied').innerHTML = "Non puoi accedere alla festa del grande Gatsby";
+ }
