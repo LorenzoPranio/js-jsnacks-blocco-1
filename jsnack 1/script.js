@@ -1,5 +1,9 @@
 //Creare un prompt per la richiesta del nome dell'invitato
 
+let name_and_surname = prompt('Inserisci il tuo nome e cognome.');
+
+console.log(name_and_surname);
+
 //Creo una FLAG impostata su FALSE
 
 //Creare un ARREY con la lista dei nomi
